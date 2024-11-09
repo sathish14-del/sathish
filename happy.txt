@@ -1,0 +1,25 @@
+
+Message 'src refspec master does not match any' when ...
+
+Stack Overflow
+https://stackoverflow.com › questions › message-src-ref...
+The most probable reason for this error is that all the files are untracked and have not been added. git add --all in case you wish to add all the files.
+144 answers
+ 
+·
+ 
+Top answer: 
+Maybe you just need to commit. I ran into this when I did: mkdir repo && cd repo git ...
+git: error: src refspec main does not match any ...
+8 answers
+1 Dec 2021
+git push error: src refspec main does not match any on ...
+10 answers
+6 Dec 2020
+error: src refspec master does not match any - Stack ...
+27 answers
+21 Jan 2014
+src refspec main does not match any error: failed to ...
+3 answers
+30 Oct 2020
+More results from stackoverflow.com
